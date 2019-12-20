@@ -50,8 +50,8 @@
       "underlineLink": true,
       "opacity": "91",
       "opacityOverlay": "71",
-      "text": "This Website Was Created By <a href='https://www.sarveshmrao.ml'>SARVESH M RAO</a> for his Brothers. :)",
-      "textButton": "Close"
+      "text": "இந்த வலைத்தளம்   <a href='https://www.sarveshmrao.ml'>சர்வேஷ் எம் ராவ்</a> தனது சகோதரர்களுக்காக உருவாக்கப்பட்டது. :)",
+      "textButton": "மூடு"
     },
     "favicon": false,
     "noImageResize": false,
